@@ -1,6 +1,6 @@
 # Sunnyday Technologies
 
-Materials engineering company in Appleton, Wisconsin. We build open-source 3D concrete printing hardware, an AI-driven concrete mix-formulation platform, the open dataset that ties them together, and CAD tooling that keeps the assemblies honest.
+A Materials engineering company in Wisconsin, USA. We build an AI-driven concrete mix-formulation platform, open-source 3D concrete printing hardware to print the material, the open dataset that ties them together, and CAD tooling assembly helpers to keeps the assemblies honest.
 
 ## Brand portfolio
 
