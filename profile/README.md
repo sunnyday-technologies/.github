@@ -31,7 +31,7 @@ CEMFORGE supports formulation decisions, M3-CRETE provides an open printing plat
 
 - `pip install cadclaw` — [`cadclaw` on PyPI](https://pypi.org/project/cadclaw/)
 - `git clone https://github.com/sunnyday-technologies/M3-CRETE` — printer CAD and BOM
-- `git clone https://github.com/sunnyday-technologies/Open3DCP` — printability dataset and schema
+- `git clone https://github.com/sunnyday-technologies/Open3DCP` — public data schema and documentation (the repository does not supply a dataset)
 - `git clone https://github.com/sunnyday-technologies/MARB` — AI-CAD assembly benchmark
 - `git clone https://github.com/sunnyday-technologies/TOPOCRETE` — concrete topology optimization
 - `git clone https://github.com/sunnyday-technologies/paramat` — FFF filament print conditions
